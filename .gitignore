@@ -1,0 +1,12 @@
+/vendor
+.env
+.phpunit.result.cache
+phpunit.phar
+/phpunit.xml
+.idea
+.vscode
+/build
+_ide_helper.php
+_ide_helper_models.php
+composer.phar
+index.php

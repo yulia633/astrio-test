@@ -1,0 +1,6 @@
+/vendor
+/storage/box.json
+/app/bootstrap.php
+/composer.json
+/composer.lock
+/index.php
